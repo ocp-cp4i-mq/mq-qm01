@@ -74,6 +74,6 @@ spec:
     collector: {}
     enabled: false
     namespace: ""
-  version: 9.2.3.0
+  version: 9.2.3.0-r1
   web:
     enabled: true
